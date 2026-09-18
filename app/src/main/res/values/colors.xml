@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色调 - 温暖珊瑚橙 -->
+    <color name="primary">#FFFF8C69</color>
+    <color name="primary_dark">#FFE07B5A</color>
+    <color name="primary_light">#FFFFB899</color>
+    <color name="primary_alpha_10">#1AFF8C69</color>
+
+    <!-- 背景色 -->
+    <color name="background">#FFFAF8F5</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="card_background">#FFFFFFFF</color>
+
+    <!-- 文字颜色 -->
+    <color name="text_primary">#FF2D2D2D</color>
+    <color name="text_secondary">#FF999999</color>
+    <color name="text_hint">#FFCCCCCC</color>
+
+    <!-- 功能色 -->
+    <color name="like_red">#FFFF5252</color>
+    <color name="divider">#FFF0F0F0</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <!-- 标签 -->
+    <color name="tag_bg">#1AFF8C69</color>
+    <color name="tag_text">#FFFF8C69</color>
+</resources>
